@@ -1,2 +1,3 @@
 # edumate-frontend
-An alternative edumate frontend based on the reverse engineered api
+
+An alternative frontend for edumate using the reverse engineered api.
